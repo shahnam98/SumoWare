@@ -1,0 +1,16 @@
+[
+    {
+        "initial_pose": {
+            "x": 217.42,
+            "y": -91.67,
+            "theta": 0
+        },
+        "goal_pose": {
+            "x": 393.60,
+            "y": 50.39,
+            "theta": 90
+        },
+        "initial_speed": 3.0,
+        "name": "right_turn"
+    }
+]
