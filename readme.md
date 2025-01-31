@@ -98,6 +98,9 @@ To run without GPU support, disable the gpu_support toggle
 ros2 run sumoware scenario_controller --ros-args -p use_sim_time:=true -p scenario_file:="./example_inputs/scenario_params.json" -p map_file:="./example_inputs/map.xodr" -p project_absolute_path:="$PWD" -p gpu_support:=false
 ```
 
+## Simulation Videos
+Videos of simulations running SumoWare can be found [here](https://tinyurl.com/53fb278x).
+
 ## Contributors
 Faruk Öztürk - [frozturk](https://github.com/frozturk) - [faruk.oeztuerk@tum.de](mailto:faruk.oeztuerk@tum.de)
 
