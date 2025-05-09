@@ -103,6 +103,8 @@ Videos of simulations running SumoWare can be found [here](https://tinyurl.com/5
 
 ## Contributors
 Faruk Öztürk - [frozturk](https://github.com/frozturk) - [faruk.oeztuerk@tum.de](mailto:faruk.oeztuerk@tum.de)
+Evald Nexhipi 
+Mathias Pechinger
 
 ## Disclaimer
 This project contains code derived from Autoware (https://github.com/autowarefoundation/autoware) and tier4_autoware_msgs (https://github.com/tier4/tier4_autoware_msgs), licensed under the Apache License 2.0.
