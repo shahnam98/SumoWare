@@ -102,7 +102,7 @@ ros2 run sumoware scenario_controller --ros-args -p use_sim_time:=true -p scenar
 Videos of simulations running SumoWare can be found [here](https://tinyurl.com/53fb278x).
 
 ## Contributors
-Faruk Öztürk - [frozturk](https://github.com/frozturk) - [faruk.oeztuerk@tum.de](mailto:faruk.oeztuerk@tum.de)  
+Faruk Öztürk
 Evald Nexhipi   
 Mathias Pechinger  
 
