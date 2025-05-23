@@ -6,6 +6,7 @@
 ## 🖥️ Host System
 - Windows 11
 - WSL2 (Ubuntu 22.04)
+- Python 3.10
 - Docker Desktop (WSL2 integration enabled)
 - VcXsrv (for RViz2 GUI)
 
