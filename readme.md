@@ -106,7 +106,25 @@ Videos of simulations running SumoWare can be found [here](https://tinyurl.com/5
 ## Contributors
 Faruk Öztürk  
 Evald Nexhipi   
-Mathias Pechinger  
+Mathias Pechinger 
+
+## Paper
+If you use this repository, please cite our paper:
+
+Öztürkle, F., Nexhipi, E., Pechinger, M., & Bogenberger, K. (2025). *SumoWare: Bridging SUMO and Autoware to Assess AV-Induced Traffic Impact*. IEEE IV 2025, 2415–2421. [DOI](https://doi.org/10.1109/IV64158.2025.11097507).
+
+**BibTeX:**
+```bibtex
+@inproceedings{sumoware2025,
+  title={SumoWare: Bridging SUMO and Autoware to Assess AV-Induced Traffic Impact},
+  author={{\"O}zt{\"u}rkle, Faruk and Nexhipi, Evald and Pechinger, Mathias and Bogenberger, Klaus},
+  booktitle={2025 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={2415--2421},
+  year={2025},
+  organization={IEEE},
+  doi={10.1109/IV64158.2025.11097507}
+}
+```
 
 ## Disclaimer
-This project contains code derived from Autoware (https://github.com/autowarefoundation/autoware) and tier4_autoware_msgs (https://github.com/tier4/tier4_autoware_msgs), licensed under the Apache License 2.0.
+This project contains code derived from [Autoware](https://github.com/autowarefoundation/autoware) and [tier4_autoware_msgs](https://github.com/tier4/tier4_autoware_msgs), licensed under the Apache License 2.0.
