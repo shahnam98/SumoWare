@@ -111,13 +111,13 @@ Mathias Pechinger
 ## Paper
 If you use this repository, please cite our paper:
 
-Öztürkle, F., Nexhipi, E., Pechinger, M., & Bogenberger, K. (2025). *SumoWare: Bridging SUMO and Autoware to Assess AV-Induced Traffic Impact*. IEEE IV 2025, 2415–2421. [DOI](https://doi.org/10.1109/IV64158.2025.11097507).
+Öztürk, F., Nexhipi, E., Pechinger, M., & Bogenberger, K. (2025). *SumoWare: Bridging SUMO and Autoware to Assess AV-Induced Traffic Impact*. IEEE IV 2025, 2415–2421. [DOI](https://doi.org/10.1109/IV64158.2025.11097507).
 
 **BibTeX:**
 ```bibtex
 @inproceedings{sumoware2025,
   title={SumoWare: Bridging SUMO and Autoware to Assess AV-Induced Traffic Impact},
-  author={{\"O}zt{\"u}rkle, Faruk and Nexhipi, Evald and Pechinger, Mathias and Bogenberger, Klaus},
+  author={{\"O}zt{\"u}rk, Faruk and Nexhipi, Evald and Pechinger, Mathias and Bogenberger, Klaus},
   booktitle={2025 IEEE Intelligent Vehicles Symposium (IV)},
   pages={2415--2421},
   year={2025},
