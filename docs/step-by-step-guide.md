@@ -74,7 +74,7 @@ source ~/.bashrc
 ### ✅ Step 6: Clone and Configure SumoWare
 
 ```bash
-git clone --recurse-submodules https://github.com/TUM-VT/SumoWare.git
+git clone --recurse-submodules https://github.com/shahnam98/SumoWare.git 
 cd SumoWare
 git config submodule.src/tier4_autoware_msgs.url https://github.com/tier4/tier4_autoware_msgs.git
 git submodule update --init --recursive
@@ -122,7 +122,7 @@ source ~/SumoWare/install/local_setup.bash
 ros2 run sumoware scenario_controller --ros-args \
   -p use_sim_time:=true \
   -p scenario_file:="./example_inputs/scenario_params.json" \
-  -p map_file:="./example_inputs/map.xodr" \
+  -p map_file:="./example_inputs/Roundabout.xodr" \
   -p project_absolute_path:="$PWD" \
   -p gpu_support:=false
 ```
