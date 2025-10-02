@@ -11,6 +11,6 @@
             "theta": 90
         },
         "initial_speed": 3.0,
-        "name": "right_turn"
+        "name": "left_turn"
     }
 ]
