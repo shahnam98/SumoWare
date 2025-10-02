@@ -122,7 +122,7 @@ source ~/SumoWare/install/local_setup.bash
 ros2 run sumoware scenario_controller --ros-args \
   -p use_sim_time:=true \
   -p scenario_file:="./example_inputs/scenario_params.json" \
-  -p map_file:="./example_inputs/Roundabout.xodr" \
+  -p map_file:="./example_inputs/map.xodr" \
   -p project_absolute_path:="$PWD" \
   -p gpu_support:=false
 ```
