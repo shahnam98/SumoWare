@@ -74,7 +74,7 @@ source ~/.bashrc
 ### ✅ Step 6: Clone and Configure SumoWare
 
 ```bash
-git clone --recurse-submodules https://github.com/TUM-VT/shahnam98/SumoWare.git
+git clone --recurse-submodules https://github.com/shahnam98/SumoWare.git
 cd SumoWare
 git config submodule.src/tier4_autoware_msgs.url https://github.com/tier4/tier4_autoware_msgs.git
 git submodule update --init --recursive
